@@ -80,6 +80,19 @@ export default function Home() {
             Fully-typed real-time API with NoSQL database.
           </p>
         </a>
+          <a
+          href="https://docs.amplify.aws/gen2/build-a-backend/data/set-up-data/"
+          className={styles.card}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            Data <span>-&gt;&gt;</span>
+          </h2>
+          <p>
+            Fully-typed real-time API with NoSQL database.
+          </p>
+        </a>
       </div>
     </main>
   )
